@@ -74,7 +74,6 @@ a {
   z-index: 2;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
@@ -105,7 +104,7 @@ a {
   font-size: 18px;
   font-style: normal;
   margin-top: 8px;
-  color: blue;
+  color: #2f80ed;
 }
 
 .two-columns__main-text {
