@@ -35,6 +35,7 @@
   width: 730px;
   margin-left: 64px;
   align-self: center;
+  line-height: 96px;
   font-size: 102px;
   z-index: 3;
 }
@@ -187,7 +188,7 @@
 /* БЛОК ФЕЙНМАНА Старт */
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   background-color: #f2f2f2;
   background-image: url("../images/feynman.png");
   background-size: auto 637px;
@@ -359,13 +360,12 @@
 .footer__column-links {
   display: flex;
   flex-direction: column;
+  margin: 20px 0 16px 0;
 }
 
 .footer__column-link {
   display: flex;
   align-items: center;
-  margin-bottom: 10px;
-  margin-top: 0;
   color: white;
   line-height: 30px;
   font-size: 18px;
