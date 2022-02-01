@@ -2,9 +2,8 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: 700;
-  width: 648px;
-  position: relative;
-  top: 0;
+  max-width: 648px;
+  width: 100%;
   margin: 0 auto;
   text-align: center;
   padding-top: 100px;
