@@ -1,7 +1,5 @@
 
 .cards {
-  margin-left: auto;
-  margin-right: auto;
   width: 920px;
   display: grid;
   column-gap: 100px;
